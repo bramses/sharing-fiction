@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2020-03-12T08:54:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-12T08:54:07-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/agency/</loc>
     <lastmod>2020-03-11T21:58:33-04:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-03-11T21:58:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-03-11T21:58:33-04:00</lastmod>
   </url>
   

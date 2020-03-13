@@ -7,7 +7,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 
 [author]
-  name = "Bram Adams"
+  name = "Sharing Fiction"
 
 [params]
   dateform        = "Jan 2, 2006"
