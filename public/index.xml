@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sharing fiction</title>
+    <link>http://example.org/</link>
+    <description>Recent content on sharing fiction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 11 Mar 2020 21:58:33 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Agency</title>
+      <link>http://example.org/posts/hello-agency/</link>
+      <pubDate>Wed, 11 Mar 2020 21:58:33 -0400</pubDate>
+      
+      <guid>http://example.org/posts/hello-agency/</guid>
+      <description>It&amp;rsquo;s been one full week since I started my agency, but I think I&amp;rsquo;ve learned more this week than I do in five regular ones. I&amp;rsquo;d like to take some time to discuss what I&amp;rsquo;ve learned so far.
+git commit -m &amp;ldquo;New Agency, who dis?&amp;rdquo; When you start a business, it&amp;rsquo;s best to have a plan. But how well thought out should the plan be? Should it be shorter than a elevator pitch?</description>
+    </item>
+    
+  </channel>
+</rss>

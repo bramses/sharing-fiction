@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "sharing fiction"
+theme = "hermit"
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+
+[author]
+  name = "Bram Adams"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  homeSubtitle = "turning your events into events++ using the hottest future tech: augmented reality."
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/_bramses/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/bramses"
+  
+  [[params.social]]
+    name = "email"
+    url = "mailto:bram@sharingfiction.com"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "portfolio"
+    weight = 20
