@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on sharing fiction</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on sharing fiction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 11 Mar 2020 21:58:33 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>agency</title>
-      <link>http://example.org/tags/agency/</link>
+      <link>/tags/agency/</link>
       <pubDate>Wed, 11 Mar 2020 21:58:33 -0400</pubDate>
       
-      <guid>http://example.org/tags/agency/</guid>
+      <guid>/tags/agency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>weekly standups</title>
-      <link>http://example.org/tags/weekly-standups/</link>
+      <link>/tags/weekly-standups/</link>
       <pubDate>Wed, 11 Mar 2020 21:58:33 -0400</pubDate>
       
-      <guid>http://example.org/tags/weekly-standups/</guid>
+      <guid>/tags/weekly-standups/</guid>
       <description></description>
     </item>
     
