@@ -43,7 +43,7 @@ The most important lesson of the week: **get started**.
  
 ## Expenses
  
-Getting "out the door" wasn't that expensive, surprisingly. I purchased a domain on Google Domains for $12, and then bought a gmail suite account so I could get an email domain instead of using a regular gmail account for $6 monthly.
+Getting "out the door" wasn't that expensive, surprisingly. I purchased a domain on Google Domains for $12, and then bought a gmail suite account so I could get an offical domain for my email instead of using a regular gmail account for $6 monthly.
  
 For the meetings I guess you could say I spent around ~$6 on gas.
  
@@ -59,6 +59,7 @@ I've had **two** client meetings this week! I won't mention their names yet, but
 - **[G-Suite](https://gsuite.google.com/)** - Docs, Sheets, Drive, 30GB of space, a branded email. Nice.
 - **[TeuxDeux](https://teuxdeux.com/)** - My secret weapon is a to-do list. I don't know how anyone gets anything done without one.
 - **[Hugo](https://gohugo.io/)** - This site is built on Hugo. Not fully sure of my thoughts on it yet, but it is *very* performant. 
+- **[Netlify](https://www.netlify.com/)** - The go to deployment for static websites. Makes website updates as simple as `git push`.
  
  
 ## Spark AR Learnings
