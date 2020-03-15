@@ -19,9 +19,7 @@ I propose that the best business plan is a **succinct hypothesis that can receiv
  
 You want to be able to test your idea against the market, and that means you have to stick your neck out and be willing to deal with rejection.
  
-So what's my hypothesis?
- 
-**Here's my hypothesis; the soft, mushy, still warm core of *Sharing Fiction*:**
+So what's my hypothesis? **What's the soft, mushy, still warm core of *Sharing Fiction*?:**
  
 > Businesses will want to attract more customers to their events using AR filters on social media.
  
