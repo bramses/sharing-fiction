@@ -27,7 +27,7 @@ Let's break this down.
  
 ### The Hypothesis, Deconstructed
  
-- **Businesses** - Most businesses have a social media prescense, maybe not a large one, but one for sure. They'll want an easy way to engage with users.
+- **Businesses** - Most businesses have a social media presence, maybe not a large one, but one for sure. They'll want an easy way to engage with users.
 - **attract more customers** - The central goal of every profitable business is to be able to attract more leads/customers/clients. It doesn't matter how good your product is if nobody uses it. *NB: See: the entire field of marketing.*
 - **events** - Coronavirus aside, the more people at an event, the better generally. More people == more word of mouth == more attention to the brand == more present/future sales. AR filters will help increase hype for events, and increase the camaraderie of those that attend.
 - **AR filters** - AR/VR is in a weird space right now. The Oculus is crushing it in the VR space, Magic Leap was a major flop, and no one really sees a "killer app" coming out anytime soon. Alongside this are new, accessible AR Photoshop-esque studios like Lens Studio (Snapchat) and Spark AR (Instagram). These Studios allow anyone with a pulse and an account to make filters. These filters are what Bud Light is to Budweiser. They run on phones and only do silly things like turning your eyes purple or something. 
