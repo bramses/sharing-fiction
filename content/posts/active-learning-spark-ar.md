@@ -20,4 +20,4 @@ I feel that SparkAR follows a similar model to learning programming. Sure, you c
 
 ## Masterful Googling
 
-Let me let you in on a secret **all** software engineers share. Our main skill stack isn't programming, it's **asking the right questions**.
+Let me let you in on a secret **all** software engineers share. Our main skill stack isn't programming, it's **asking the right questions**. There's a joke I once heard back at school: "My degree says I only majored in CS, but I actually got a double major in Googling."

@@ -8,7 +8,9 @@ tags:
   - agency
   - weekly standups
 ---
- 
+
+*See all the weekly standups [here](/tags/weekly-standups/).*
+
 It's been one full week since I started my agency, but I think I've learned more this week than I do in five regular ones. I'd like to take some time to discuss what I've learned so far.
  
 ## git commit -m "New Agency, who dis?"
