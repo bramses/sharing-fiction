@@ -11,7 +11,7 @@ tags:
 
 *See all the weekly standups [here](/tags/weekly-standups/).*
 
-What a week it's been! In what seems like a blink of an eye, the world has fallen into CHAOS. Ok, *maybe* chaos is a bit excessive, but at the least, the world is experiencing a very critical disruption from its normal flow. If you're reading this in March 2020, you know that of course, I am alluding to the coronavirus. If you're reading this in the fututre, hello, I hope things are better. Give your family and friends a hug for me.
+What a week it's been! In what seems like a blink of an eye, the world has fallen into CHAOS. Ok, *maybe* chaos is a bit excessive, but at the least, the world is experiencing a very critical disruption from its normal flow. If you're reading this in March 2020, you know that of course, I am alluding to the coronavirus. If you're reading this in the future, hello, I hope things are better. Give your family and friends a hug for me.
 
 How has the coronavirus affected my burgeoning agency? Well...
 
@@ -28,7 +28,7 @@ Every two weeks (the start and middle of the month), I pick up nine new habits. 
 Every morning, I try to spend an hour in a **deep work state**. Deep Work means no phone, no distractions, no judgement. Pick a task that's appreciably difficult and try to tackle it. I've been picking at Cal Newport's [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work) for a while now, and it really reminded me that the best work comes when your mind is fully invested into one task. 
 
 Of course, this does not mean that one cannot take breaks. It means that, while I'm working, I'm working. Not half working by checking Instagram every few minutes and fiddling with my Spotify playlist.
-The results of these deep work mornings have been great. I've finished tax forms, two filters, and a few Javascript modules I've been working on; all in **much less** time than they would usually take.
+The results of these deep work mornings have been great. I've finished tax forms, two filters, and a few JavaScript modules I've been working on; all in **much less** time than they would usually take.
 
 ## The Bad
 
@@ -40,13 +40,13 @@ Things are moving at a glacial pace, which has quite an adverse affect on my des
 
 *Times are hard y'all.*
 
-Also, Spark AR has halted publication for new filters, which means my two new filters I made won't be released any time soon in the forseeable future.
+Also, Spark AR has halted publication for new filters, which means my two new filters I made won't be released any time soon in the foreseeable future.
 
 ![Spark message about COVID-19](/images/spark-publishing-halted.jpg)
 
 ## Moving Forward
 
-Even though I didn't get a chance to have any traditional meetings this week, I felt I was still able to grow as an agency. I had a really great conversation with a friend of mine who does design, and she taught me how to set up my own designs and work with others as well. This was especially great, because I was getting down on myself for my lack of a design skillset. This chat reminded me as long as I have a **committment to creating the best product I can**, the rest will fall into place; I'll learn what I need to when I need to learn it.
+Even though I didn't get a chance to have any traditional meetings this week, I felt I was still able to grow as an agency. I had a really great conversation with a friend of mine who does design, and she taught me how to set up my own designs and work with others as well. This was especially great, because I was getting down on myself for my lack of a design skillset. This chat reminded me as long as I have a **commitment to creating the best product I can**, the rest will fall into place; I'll learn what I need to when I need to learn it.
 
 ## Spark AR Learnings
 
@@ -57,7 +57,7 @@ Even though I didn't get a chance to have any traditional meetings this week, I 
 ## A-Ha Business Moments
 
 1. What is the 80/20 of your business? What is the 80/20 during a time like this?
-2. Apply [agressive positivity](https://www.goodreads.com/book/show/155981.Psycho_Cybernetics_A_New_Way_to_Get_More_Living_Out_of_Life) to problems when possible. This framing allows you to relish instead of flee from problems.
+2. Apply [aggressive positivity](https://www.goodreads.com/book/show/155981.Psycho_Cybernetics_A_New_Way_to_Get_More_Living_Out_of_Life) to problems when possible. This framing allows you to relish instead of flee from problems.
 3. If something isn't working, why not try the opposite?
 
 See you next week. Stay safe. 
