@@ -1,7 +1,7 @@
 ---
 title: "Week 2: The QuARantine"
 date: 2020-03-19T11:56:10-04:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
