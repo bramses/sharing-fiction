@@ -30,6 +30,7 @@ And besides, wouldn’t these tactics come back to eventually bite the salespers
 Fortunately, the universe provided me pretty solid **free** mentorship in the form of books, YouTube videos, and podcasts. I listened to a great podcast by Seth Godin, and reread [*Zero to One*](https://www.goodreads.com/book/show/18050143-zero-to-one) by Peter Theil. 
 
 The overlap in their advice is simply this: 
+
 > “focus on supplying a remarkable product, and helping an insanely small group of people.”
 
 As for myself, most of the messages (cold emails & such) I’ve sent out thus far haven’t been returned, meaning that I didn’t offer something remarkable enough, or I didn’t deliver it to the correct group of people. 
