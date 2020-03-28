@@ -35,9 +35,9 @@ The overlap in their advice is simply this:
 
 As for myself, most of the messages (cold emails & such) I’ve sent out thus far haven’t been returned, meaning that I didn’t offer something remarkable enough, or I didn’t deliver it to the correct group of people. 
 
-After thinking on how to remedy this I came up with three strategies I may use to find clients:
+After thinking on how to remedy this I came up with **three** strategies I may use to find clients:
 
-1. Send cold Looms and emails to different companies, or Instagram DMs where appropriate. 
+1. Continue sending cold Looms and emails to different companies, or Instagram DMs where appropriate. Cast a wide net. 
     - **Pros:** I’m letting people who may have never considered the value of AR filters for marketing. AR is a new discipline, and it’s a fact that many are simply unaware of its existence. 
     - **Cons:** I’m shooting in the dark and bothering people who may not want to be bothered/have other, more important, things going on.
 2. Create filters that I *think* could be useful to them **before** I make contact, send them an example link, and see if they’re interested.
@@ -60,7 +60,7 @@ So, how do I feel? The day of, I was pretty excited. It’s really fun to see bi
 
 ## AR Learnings
 
-- [sparkar] The HeadOccluder and BustOccluder files can be downloaded from the “necktie” template. I moved them to my global assets filter and have used them in three projects now. (thanks [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw)!)  
+- [sparkar] The HeadOccluder and BustOccluder files can be downloaded from the “necktie” template. I moved them to my global assets folder and have used them in three projects now. (thanks [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw)!)  
 - [sparkar] I tried to create one of the strands of the headdress in the picture below in Spark and copy it hundreds of times around a face mesh. Unfortunately, this proved to be very difficult, since each object decided to maintain its own geometry. For my fellow non 3D Designers out there, check Sketchfab **before** you commit to a project.
 {{< figure src="/images/week-3-awaken-my-love.jpg" alt="Awaken My Love Album art" caption="A phenomenal album, and really hard to create in 3D" >}}
 - [sparkar] You can restart a Spark animation when the user hits record. Game changer! That said, it doesn’t work to well with sounds linked up to animation (creates some weird overlapping sound effects), so use with caution.
