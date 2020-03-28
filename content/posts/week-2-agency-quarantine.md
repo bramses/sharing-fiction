@@ -1,5 +1,5 @@
 ---
-title: "Week 2: The QuARantine"
+title: "Week Two: The QuARantine"
 date: 2020-03-19T11:56:10-04:00
 draft: false
 toc: false
