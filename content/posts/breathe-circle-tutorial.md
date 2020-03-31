@@ -8,7 +8,9 @@ tags:
   - tutorial
 ---
 
-Why a breathe circle even? I was inspired by the [Calm Breathe Circle](https://www.calm.com/breathe) which is a really great, minimalistic tool. You can try it out [here](https://instagram.com/a/r/?effect_id=221619535698652)!
+Recently, I felt inspired by the [Calm Breathe Circle](https://www.calm.com/breathe) which is a really great, minimalistic tool. I re-created it in Spark while taking a few creative liberties.
+
+You can try the finished filter out [here](https://instagram.com/a/r/?effect_id=221619535698652)!
 
 ## Mile High View
 
