@@ -15,6 +15,7 @@ You can try the finished filter out [here](https://instagram.com/a/r/?effect_id=
 ## Mile High View
 
 In order to bring this effect to life, we're going to need a few things:
+
 - A circle (lol)
 - An animation that causes said circle to expand and contract over time
 - A few sounds to increase the immersion of the effect
@@ -49,6 +50,7 @@ Next, create a rectangle for the breathe material, and place it on top of the ca
 ## Audio
 
 To set up the audio, we need to do a few things:
+
 - create an Audio player
 - download some audio files
 - use a controller to trigger sounds when called
@@ -78,6 +80,7 @@ To create the effect, we grab the `camera texture` from earlier by dragging it o
 I saved this part for last, since in all honesty, it's the most complex part of the workflow. While it's possible to create animations using the patch editor, I find it easier to use JavaScript directly.
 
 Here are the steps:
+
 1. Load in all required libraries from SparkAR
 2. Find the `rectangle` that contains our transparent breathe circle
 3. Get the `material` that holds the `opacity` of the effect
