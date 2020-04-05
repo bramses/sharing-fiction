@@ -12,7 +12,7 @@ tags:
 
 This filter was really fun (and frustrating) to make. It required some knowledge of math, experience with 3D manipulation, and a touch of good luck.
 
-The final result looks like this (you can try it out [here on Luke's profile](https://www.instagram.com/luke_metzler/)):
+The final result looks like this (you can try it out [here on Luke's profile](https://www.instagram.com/luke_metzler/) and throw him a follow!):
 
 {{< youtube at_25kO7LdQ >}}
 

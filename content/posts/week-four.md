@@ -1,5 +1,5 @@
 ---
-title: "Week Four: The Lessons are There Somewhere!"
+title: "Week Four: The Lessons Are In There Somewhere!"
 date: 2020-04-05T14:11:42-04:00
 draft: false
 toc: false
