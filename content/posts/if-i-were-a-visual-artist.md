@@ -63,4 +63,5 @@ If I were a visual artist, I would:
 - Use volumetric video to explain how I made my painting to people **in real time**
 - Use Tilt Brush to create 3D art
 
+If you have any questions about any of this stuff, or you're wondering if AR can benefit your art, get [in contact with us](mailto:bram@sharingfiction.com)! 
 
