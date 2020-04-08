@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  homeSubtitle = "turning your events into events++ using the hottest future tech: augmented reality."
+  homeSubtitle = "turning your brand into brand++ using the hottest future tech: augmented reality."
 
   [[params.social]]
     name = "instagram"
