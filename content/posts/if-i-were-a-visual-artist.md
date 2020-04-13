@@ -1,5 +1,5 @@
 ---
-title: "If I Were: A Visual Artist"
+title: "If I Were a Visual Artist"
 date: 2020-04-08T09:25:40-04:00
 draft: false
 toc: false
