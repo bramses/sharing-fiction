@@ -1,0 +1,55 @@
+/* html {
+    background: url('../images/sfgif.gif') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body {
+    height: 100%;
+} */
+
+html,
+body {
+  height: 100%;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: xx-large;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.bigTitle {
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align:center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* .contact {
+} */
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+}
