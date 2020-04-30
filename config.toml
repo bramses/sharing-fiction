@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "sharing fiction"
+# title = "sharing fiction"
 theme = "hermit"
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
@@ -14,28 +14,31 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  homeSubtitle = "turning your brand into brand++ using the hottest future tech: augmented reality."
+# homeSubtitle = "turning your brand into brand++ using the hottest future tech: augmented reality."
+  customCSS = ["css/home.css"]
+  bgImg = "images/sfgif.gif"
 
   [[params.social]]
     name = "instagram"
-    url = "https://www.instagram.com/_bramses/"
+    url = "https://www.instagram.com/sharingfiction/"
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/bramses"
+#  [[params.social]]
+#    name = "github"
+#    url = "https://github.com/bramses"
   
   [[params.social]]
     name = "email"
     url = "mailto:bram@sharingfiction.com"
 
-[menu]
 
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
+# [menu]
 
-  [[menu.main]]
-    name = "Portfolio"
-    url = "portfolio"
-    weight = 20
+#  [[menu.main]]
+#    name = "Posts"
+#    url = "posts/"
+#    weight = 10
+
+#  [[menu.main]]
+#    name = "Portfolio"
+#    url = "portfolio"
+#    weight = 20
